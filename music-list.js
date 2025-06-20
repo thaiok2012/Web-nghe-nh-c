@@ -9,10 +9,10 @@
 
 let allMusic = [
   {
-    name: "Đám Cưới Nha",
+    name: "em cưới rồi à",
     artist: "Hồng Thanh,Mie",
-    img: "Dam-Cuoi-Nha",
-    src: "Dam-cuoi-nha"
+    img: "em cưới rồi",
+    src: "em cưới rồi à"
   },
  
   {
