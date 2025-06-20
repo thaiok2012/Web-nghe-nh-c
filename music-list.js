@@ -12,7 +12,7 @@ let allMusic = [
     name: "em cưới rồi à",
     artist: "Hồng Thanh,Mie",
     img: "em cưới rồi",
-    src: "em cưới rồi à"
+    src: "em cưới rồi à.mp3"
   },
  
   {
